@@ -23,6 +23,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: Transcription of original 1739 edition.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40127#Joe-Miller-s-Jests-or-The-Wits-Vade-Mecum
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2012-07-02'
 gutenberg_type: Text
