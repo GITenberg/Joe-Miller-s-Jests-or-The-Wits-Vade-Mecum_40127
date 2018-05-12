@@ -1,0 +1,40 @@
+_repo: Joe-Miller-s-Jests-or-The-Wits-Vade-Mecum_40127
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Mottley, John
+    aliases:
+    - Jenkins, Elijah
+    - Mottley, Mr. (John)
+    - Seymour, R.
+    birthdate: 1692
+    deathdate: 1750
+    gutenberg_agent_id: '40430'
+    url: http://www.gutenberg.org/2009/agents/40430
+    wikipedia: http://en.wikipedia.org/wiki/John_Mottley
+  other_contributor:
+    agent_name: Miller, Joe
+    alias: Miller, Joseph
+    birthdate: 1684
+    deathdate: 1738
+    gutenberg_agent_id: '40429'
+    url: http://www.gutenberg.org/2009/agents/40429
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: Transcription of original 1739 edition.
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2012-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40127'
+  lccn: '24007586'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'English wit and humor'
+title: Joe Miller's Jests, or The Wits Vade-Mecum
+url: http://www.gutenberg.org/ebooks/40127
